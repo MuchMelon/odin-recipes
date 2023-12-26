@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+
+section {
+    display: grid;
+}
+
+h1 {
+    color : black;
+    text-align: center;
+}
