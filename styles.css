@@ -1,12 +1,33 @@
 body {
     background-color: white;
+    font-style: karla;
 }
 
 section {
     display: grid;
 }
 
+.navbar {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    
+}
+
+.logo {
+    padding-left: 30px;
+}
+
+.recipebox {
+    padding-left: 50px;
+    
+}
+
 h1 {
     color : black;
-    text-align: center;
+    text-align: left;
+    padding-left: 50px;
+    font-size: 45px;
+    margin-left: auto;
+    padding-right: 50px;
 }
