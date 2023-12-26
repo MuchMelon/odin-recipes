@@ -11,6 +11,9 @@ section {
     background-color: white;
     padding: 15px;
     display: flex;
+
+    border-bottom: solid;
+    
     
 }
 
