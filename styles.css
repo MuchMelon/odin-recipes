@@ -8,22 +8,25 @@ section {
 }
 
 .navbar {
+    width: auto;
+    height:147px;
     background-color: white;
     padding: 15px;
     display: flex;
-
     border-bottom: solid;
-    
     
 }
 
 .logo {
     padding-left: 30px;
+    size: initial;
 }
 
-.recipebox {
-    padding-left: 50px;
-    
+
+
+.recipegroup {
+    display:flex;
+    flex-flow:row;
 }
 
 h1 {
